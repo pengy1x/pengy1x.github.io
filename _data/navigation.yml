@@ -5,11 +5,11 @@
 # prevent it from being included in the site.
 
 main:
-  # - title: "Publications"
-  #   url: /publications/
+   - title: "Publications"
+     url: /publications/
 
-  - title: "SH3 Conference on Econometrics 2023"
-    url: /https://economics.smu.edu.sg/events/sh3/2023/   
+  - title: "Talks"
+    url: /talks/
 
   # - title: "Teaching"
   #   url: /teaching/    
