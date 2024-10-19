@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm interested in Econometrics. I'm 1-styear PhD student in [Economics](https://www.bc.edu/bc-web/schools/morrissey/departments/economics.html) at Boston College.
+I'm interested in Econometrics. I'm 1-st year PhD student in [Economics](https://www.bc.edu/bc-web/schools/morrissey/departments/economics.html) at Boston College.
